@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.d4adb184.css",
-    "main.js": "/my-portfolio/static/js/main.fa6adc29.js",
+    "main.js": "/my-portfolio/static/js/main.df46f958.js",
     "static/media/Review.png": "/my-portfolio/static/media/Review.e5b517b3f943c3a1c3f8.png",
     "static/media/QuizApp.png": "/my-portfolio/static/media/QuizApp.22df3237c3f97a87e7ad.png",
     "static/media/DIYMechanics.png": "/my-portfolio/static/media/DIYMechanics.e0eda4f2ab2c955b2878.png",
     "index.html": "/my-portfolio/index.html",
     "main.d4adb184.css.map": "/my-portfolio/static/css/main.d4adb184.css.map",
-    "main.fa6adc29.js.map": "/my-portfolio/static/js/main.fa6adc29.js.map"
+    "main.df46f958.js.map": "/my-portfolio/static/js/main.df46f958.js.map"
   },
   "entrypoints": [
     "static/css/main.d4adb184.css",
-    "static/js/main.fa6adc29.js"
+    "static/js/main.df46f958.js"
   ]
 }
